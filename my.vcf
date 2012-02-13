@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Butler;Charles
+FN:Charles Butler
+ORG:University Bound
+ORG:Level-Interactive
+TITLE:Web Development Manager
+TITLE:System Administrator
+TEL;CELL;VOICE:(412) 374-3350
+URL;HOME:http://www.coderchuck.com
+URL;WORK:http://www.level-interactive.com
+EMAIL;INTERNET:chuck@dasroot.net
+EMAIL;INTERNET:cbutler@level-interactive.com
+EMAIL;INTERNET:cbutler@university-bound.com
+END:VCARD
