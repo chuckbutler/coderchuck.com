@@ -4,12 +4,14 @@ N:Butler;Charles
 FN:Charles Butler
 ORG:University Bound
 ORG:Level-Interactive
-TITLE:Web Development Manager
+ORG:GroovyObject
+TITLE:Director of Development
 TITLE:System Administrator
 TEL;CELL;VOICE:(412) 374-3350
-URL;HOME:http://www.coderchuck.com
+URL;HOME:http://www.groovyobject.com
 URL;WORK:http://www.level-interactive.com
 EMAIL;INTERNET:chuck@dasroot.net
+EMAIL;INTERNET:chuck@groovyobject.com
 EMAIL;INTERNET:cbutler@level-interactive.com
 EMAIL;INTERNET:cbutler@university-bound.com
 END:VCARD
